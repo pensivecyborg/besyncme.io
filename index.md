@@ -1,5 +1,5 @@
-## HackFS 2022 Project BeSync
-
+# HackFS 2022 Project BeSync
+## Geotemporal Information Coordination
 
 You can use the [editor on GitHub](https://github.com/pensivecyborg/besyncme.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
