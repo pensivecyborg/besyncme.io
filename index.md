@@ -4,7 +4,7 @@
 
 <!-- 1. Install Magic SDK -->
 <script src="https://auth.magic.link/sdk"></script>
-
+<script>
 /* 2. Initialize Magic Instance */
 const magic = new Magic('pk_live_C3F422FED9B82602');
 
@@ -74,6 +74,7 @@ const handleLogout = async () => {
   await magic.user.logout();
   render();
 };
+</script
 
 **Bold** and _Italic_ and `Code` text
 
